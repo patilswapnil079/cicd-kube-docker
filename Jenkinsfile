@@ -3,6 +3,7 @@ pipeline {
     agent any
 /*
 	tools {
+	    jdk "openjdk8"
         maven "maven3"
     }
 */
